@@ -1,2 +1,2 @@
-# Django---virtualenv
+# Django
 Estudos de django
